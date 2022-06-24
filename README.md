@@ -1,1 +1,1 @@
-https://github.com/Dynma6005/Basic-Arithmetic.git
+https://dynma6005.github.io/Basic-Arithmetic/
